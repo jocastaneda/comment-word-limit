@@ -26,7 +26,7 @@ Comments can often get out of hand. Limit the amount of words with this plugin a
 1. Visit the Add New plugin screen and click the "Upload Plugin" button.
 2. Click the "Browse..." button and select zip file from your computer.
 3. Click "Install Now" button.
-4. Once done uploading, activate Comment Limiter.
+4. Once done uploading, activate Comment Word Limiter.
 
 = Manual =
 1. Upload the Comment Word Limiter folder to the plugins directory in your WordPress installation.
