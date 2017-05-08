@@ -1,7 +1,9 @@
-== Comment Word Limiter ==
+=== Comment Word Limiter ===
 Contributors: jcastaneda
+Requires at least: 4.2
 Tags: comments
 Tested up to: 4.8
+Stable tag: trunk
 License: GPLv2 or later
 
 Allows you to limit the amount of words in a comment.
@@ -11,7 +13,7 @@ Comments can often get out of hand. Limit the amount of words with this plugin a
 
 == Changelog ==
 
-== 0.1.0 ==
+= 0.1.0 =
 * It begins
 
 == Installation ==
